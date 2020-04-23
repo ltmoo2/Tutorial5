@@ -1,0 +1,9 @@
+---
+title: "Learning to rebase"
+author: "Lachlan Moody"
+date: "4/23/2020"
+output: 
+bookdown::html_document2
+keep_md:true
+---
+
